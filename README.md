@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Frontend developer with a background in design and textile art. I am looking to explore the intersection of creative practice and technical development, building responsive and maintainable interfaces with JavaScript, TypeScript, React and other technologies. I also work full stack with Node.js, databases and backend integrations.
 
 <!--
 **AnnaBrum/AnnaBrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
